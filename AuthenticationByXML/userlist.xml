@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserList>
+	<User>
+		<Name>Gaurav</Name>
+		<Password>gaurav1234</Password>
+	</User>
+	<User>
+		<Name>Amitava</Name>
+		<Password>amitava123</Password>
+	</User>
+	<User>
+		<Name>ETEST5</Name>
+		<Password>e12345</Password>
+	</User>
+</UserList>
